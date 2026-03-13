@@ -1,6 +1,6 @@
 lion red
 lion green
-tiger
+tiger roar
 leopard
 turtle
 -
